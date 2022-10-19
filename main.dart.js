@@ -59608,13 +59608,13 @@ o.a.toString
 p=150}o.a.c.fC(s,B.B1,A.c0(0,p))}}}
 A.DU.prototype={
 F(a,b){var s=null,r=b.J(t.w).f
-return A.ly("assets/images/landing_page.jpg",A.k1(A.fe("Envie d'\xe9vasion,\n Villa Grande Savane.".toUpperCase(),s,3,A.hh(s,s,B.j,s,s,s,s,s,A.aid(s,s,s,s,s,s,s,"Syncopate",s,s,s,s,A.af([B.lT,new A.ef("b523d6dcedd385bff1738ee2cc5900ba7b0b56526911294cae898c0125aa4d85",35164),B.lU,new A.ef("3be799d0a60f3a214c42f4af5aeb45ae81b5e1987ae925d399f6ddac16cb7548",32604)],t.gm,t.Ks),s,s,s,s,s,s,s,s).d,s,s,80,s,B.cg,s,s,!0,s,s,s,s,s,s,s,s),B.dX),s,s),s,r.a.b,s,1/0)}}
+return A.ly("assets/images/landing_page.jpeg",A.k1(A.fe("Envie d'\xe9vasion,\n Villa Grande Savane.".toUpperCase(),s,3,A.hh(s,s,B.j,s,s,s,s,s,A.aid(s,s,s,s,s,s,s,"Syncopate",s,s,s,s,A.af([B.lT,new A.ef("b523d6dcedd385bff1738ee2cc5900ba7b0b56526911294cae898c0125aa4d85",35164),B.lU,new A.ef("3be799d0a60f3a214c42f4af5aeb45ae81b5e1987ae925d399f6ddac16cb7548",32604)],t.gm,t.Ks),s,s,s,s,s,s,s,s).d,s,s,80,s,B.cg,s,s,!0,s,s,s,s,s,s,s,s),B.dX),s,s),s,r.a.b,s,1/0)}}
 A.Ea.prototype={
 F(a,b){var s=null,r=t.p
-return A.ly(s,A.ic(A.a([A.dK(A.hF(A.a([A.Us("images/location/island.jpg",B.eo,s,s),B.b5,A.a1q(u.v.toUpperCase(),s,s,s,s,s,s,s,B.ue,s,s,s)],r),B.R,B.ao,B.G),1),A.dK(new A.ca(B.lJ,A.hF(B.Dq,B.bC,B.ao,B.G),s),1)],r),B.R,B.ad,B.G),B.j,s,s,s)}}
+return A.ly(s,A.ic(A.a([A.dK(A.hF(A.a([A.Us("images/location/island.jpeg",B.eo,s,s),B.b5,A.a1q(u.v.toUpperCase(),s,s,s,s,s,s,s,B.ue,s,s,s)],r),B.R,B.ao,B.G),1),A.dK(new A.ca(B.lJ,A.hF(B.Dq,B.bC,B.ao,B.G),s),1)],r),B.R,B.ad,B.G),B.j,s,s,s)}}
 A.Eb.prototype={
 F(a,b){var s=null
-return A.ly(s,A.hF(A.a([B.HJ,B.b5,A.fe("Une \xeele paradisiaque".toUpperCase(),s,1,B.NO,B.au),B.dU,B.kC,B.dT,B.kD,B.dT,B.kB,B.dU,A.dK(A.cD(s,A.Us("images/location/island.jpg",B.ep,200,1/0),B.n,B.Z,s,s,s,s,s,s,s,s,1/0),1),B.b5,A.ft(A.fe(u.v.toUpperCase(),s,1,B.ue,B.dX),s,1/0)],t.p),B.bC,B.ao,B.G),B.j,s,s,s)}}
+return A.ly(s,A.hF(A.a([B.HJ,B.b5,A.fe("Une \xeele paradisiaque".toUpperCase(),s,1,B.NO,B.au),B.dU,B.kC,B.dT,B.kD,B.dT,B.kB,B.dU,A.dK(A.cD(s,A.Us("images/location/island.jpeg",B.ep,200,1/0),B.n,B.Z,s,s,s,s,s,s,s,s,1/0),1),B.b5,A.ft(A.fe(u.v.toUpperCase(),s,1,B.ue,B.dX),s,1/0)],t.p),B.bC,B.ao,B.G),B.j,s,s,s)}}
 A.wb.prototype={
 ab(){var s=$.f5.j(0,"ground_floor")[0]
 s=s.gal(s)
@@ -61879,7 +61879,7 @@ B.tr=new A.bt(10,10)
 B.v2=new A.cn(B.J,B.tr,B.J,B.tr)
 B.ag=new A.tk(0,"rectangle")
 B.va=new A.dD(B.yk,null,null,B.v2,null,null,B.ag)
-B.uN=new A.lw("assets/images/map.png",null,null)
+B.uN=new A.lw("assets/images/map.jpeg",null,null)
 B.Ef=A.a(s([0.2126,0.7152,0.0722,0,0,0.2126,0.7152,0.0722,0,0,0.2126,0.7152,0.0722,0,0,0,0,0,1,0]),t.V)
 B.wm=new A.o4(B.Ef)
 B.ep=new A.nZ(2,"cover")
@@ -64586,7 +64586,7 @@ return A.af(["ground_floor","Rez-de-chauss\xe9e","first_floor","Premier \xe9tage
 $.f5=function(){var s=t.s,r=t.N,q=t.K,p=A.Y("ak<o,E>"),o=A.Y("t<ak<o,ak<o,E>>>")
 return A.af(["ground_floor",A.a([A.af(["kitchen",A.af(["title","La Cuisine","icon",B.C2,"images",A.a(["assets/images/property_page/ground_floor/kitchen/1.jpeg","assets/images/property_page/ground_floor/kitchen/2.jpeg"],s)],r,q)],r,p),A.af(["living_room",A.af(["title","Le Salon","icon",B.eS,"images",A.a(["assets/images/property_page/ground_floor/living_room/1.jpeg","assets/images/property_page/ground_floor/living_room/2.jpeg"],s)],r,q)],r,p),A.af(["first_bedroom",A.af(["title","La Chambre 1","icon",B.eR,"images",A.a(["assets/images/property_page/ground_floor/first_bedroom/1.jpeg","assets/images/property_page/ground_floor/first_bedroom/2.jpeg"],s)],r,q)],r,p),A.af(["second_bedroom",A.af(["title","La Chambre 2","icon",B.eR,"images",A.a(["assets/images/property_page/ground_floor/second_bedroom/1.jpeg","assets/images/property_page/ground_floor/second_bedroom/2.jpeg","assets/images/property_page/ground_floor/second_bedroom/3.jpeg"],s)],r,q)],r,p),A.af(["wet_room",A.af(["title","La Salle de Bain","icon",B.BZ,"images",A.a(["assets/images/property_page/ground_floor/wet_room/1.jpeg","assets/images/property_page/ground_floor/wet_room/2.jpeg"],s)],r,q)],r,p)],o),"first_floor",A.a([A.af(["patio",A.af(["title","Le Patio","icon",B.C4,"images",A.a(["assets/images/property_page/first_floor/patio/1.jpeg","assets/images/property_page/first_floor/patio/2.jpeg"],s)],r,q)],r,p),A.af(["master_bedromm",A.af(["title","La Chambre Ma\xeetre","icon",B.eR,"images",A.a(["assets/images/property_page/first_floor/master_bedroom/1.jpeg","assets/images/property_page/first_floor/master_bedroom/2.jpeg","assets/images/property_page/first_floor/master_bedroom/3.jpeg"],s)],r,q)],r,p)],o),"outside",A.a([A.af(["swimming_pool",A.af(["title","La Piscine","icon",B.C7,"images",A.a(["assets/images/property_page/outside/swimming_pool/1.jpeg","assets/images/property_page/outside/swimming_pool/2.jpeg","assets/images/property_page/outside/swimming_pool/3.jpeg","assets/images/property_page/outside/swimming_pool/4.jpeg"],s)],r,q)],r,p),A.af(["terasse",A.af(["title","La Terrasse","icon",B.C9,"images",A.a(["assets/images/property_page/outside/terrasse/1.jpeg","assets/images/property_page/outside/terrasse/2.jpeg"],s)],r,q)],r,p),A.af(["garden",A.af(["title","Le Jardin","icon",B.C0,"images",A.a(["assets/images/property_page/outside/garden/1.jpeg","assets/images/property_page/outside/garden/2.jpeg","assets/images/property_page/outside/garden/3.jpeg"],s)],r,q)],r,p),A.af(["living_room",A.af(["title","Le Salon d'exterieur","icon",B.C5,"images",A.a(["assets/images/property_page/outside/living_room/1.jpeg"],s)],r,q)],r,p)],o)],r,A.Y("x<ak<o,ak<o,E>>>"))}()
 $.aii=function(){var s=t.N
-return A.a([A.af(["title","Gosier situ\xe9 \xe0 20 minutes de la villa","img","assets/images/location/house_overview.jpg"],s,s),A.af(["title","Localisation","img","assets/images/location/island.jpg"],s,s),A.af(["title","Contact","img","assets/images/location/vue_ciel.jpg"],s,s)],A.Y("t<ak<o,o>>"))}()})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
+return A.a([A.af(["title","Gosier situ\xe9 \xe0 20 minutes de la villa","img","assets/images/location/house_overview.jpeg"],s,s),A.af(["title","Localisation","img","assets/images/location/island.jpeg"],s,s),A.af(["title","Contact","img","assets/images/location/vue_ciel.jpeg"],s,s)],A.Y("t<ak<o,o>>"))}()})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
 s($,"ayc","bL",()=>A.auM(A.rH().navigator.vendor,B.e.J4(A.rH().navigator.userAgent)))
 s($,"ayJ","dB",()=>A.auO())
 r($,"awa","acp",()=>A.Eq(8))
